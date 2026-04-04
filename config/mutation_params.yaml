@@ -1,0 +1,4 @@
+drift_rate: 0.02
+preservation_bias: 0.7
+mutation_frequency: 0.1
+cycle_interval: 1.0
